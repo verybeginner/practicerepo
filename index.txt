@@ -1,2 +1,3 @@
 asdfghjkl
 try
+clear
